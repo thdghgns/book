@@ -22,7 +22,11 @@ mvn clean build
 실행
 java -Dspring.profiles.active=local -jar book.jar
 ```
-다운로드 링크 : https://drive.google.com/open?id=1n0MmnEjT4wFMg3mD_Pv50SVyKc51ylb5
+```
+다운로드 링크 : 
+https://drive.google.com/open?id=1n0MmnEjT4wFMg3mD_Pv50SVyKc51ylb5
+https://nas.hohoon.xyz:10003/d/f/513913325220836624
+```
 
 ## 구현
 ### Server
